@@ -1,6 +1,8 @@
 body {
 	font-family: "Josefin Sans";
 	background-color: #fffafb;
+	padding: 0;
+	margin: 0;
 }
 
 * {
